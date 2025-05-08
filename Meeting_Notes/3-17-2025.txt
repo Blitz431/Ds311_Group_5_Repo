@@ -1,0 +1,87 @@
+Meeting Notes – FIFA Data Analysis Project
+
+Date: March 17, 2025Time: 5:03 PM – 5:15 PMAttendees: Shaun Kumar, Aarnav Saxena, Saajay Singh
+
+Discussion Summary:
+
+Project Requirements & Questions Selection
+
+The project requires selecting three provided questions and formulating three original questions for analysis.
+
+Selected questions from the project:
+
+Question 2: Identify the strongest team based on defense, midfield, and offense scores. (Assigned to Aarnav Saxena)
+
+Question 3: Determine if home-team advantage is a real factor. (Assigned to Saajay Singh)
+
+Question 5: Analyze the longest winning streak using Tableau. (Assigned to Shaun Kumar – pending Tableau setup)
+
+Original Question Brainstorming
+
+Discussion on possible new questions:
+
+Examining whether a higher defensive score correlates with winning more games.
+
+More questions will be decided over time as knowledge of Tableau and other tools improves.
+
+Decision:
+
+Members will propose additional questions in the group chat.
+
+Final questions will be assigned similarly to the first three.
+
+Project Execution Plan
+
+Data & GitHub Setup:
+
+Project repository available on GitHub.
+
+Each member will work in separate branches named after task names rather than personal names.
+
+Aarnav will restructure the repository to ensure consistency.
+
+Team members will push updates weekly, even if they are not finalized.
+
+Tableau Usage:
+
+Shaun has previous experience with Tableau but needs to check access.
+
+Aarnav has Tableau installed and will assist if needed.
+
+Question 5 will be delayed until Tableau proficiency improves.
+
+Deliverables & Timeline:
+
+The project requires a written component and a presentation.
+
+Estimated 7-8 weeks after Spring Break to finalize and present.
+
+After Spring Break, members will share progress and refine interpretations of their assigned questions.
+
+Action Items:
+
+Aarnav: Work on Question 2 and adjust GitHub branch naming.
+
+Saajay: Work on Question 3.
+
+Shaun: Work on Question 5 (pending Tableau access).
+
+All Members:
+
+Propose at least one new original question by next meeting.
+
+Begin working on assigned questions.
+
+Push code weekly to GitHub.
+
+Next Meeting:
+
+Recurring Weekly Meeting (Skipping Spring Break).
+
+Agenda:
+
+Check progress on Questions 2, 3, and 5.
+
+Finalize three original questions.
+
+Discuss visualization strategies (Tableau).
